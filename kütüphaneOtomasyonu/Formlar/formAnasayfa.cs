@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace kütüphaneOtomasyonu.Formlar
-{
+{// githuba proje göndermek için kullandım 
     public partial class formAnasayfa : Form
     {
         public formAnasayfa()
