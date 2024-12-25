@@ -27,7 +27,7 @@ namespace kütüphaneOtomasyonu
         {
             string kuladi = textBox1.Text;
             string sifre = textBox2.Text;
-            if(kuladi == "admin" &&  sifre == "admin")
+            if(kuladi == "1" &&  sifre == "1")
             {
                 formAnasayfa frmanasayfa = new formAnasayfa();
                 frmanasayfa.Show();
